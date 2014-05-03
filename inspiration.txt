@@ -8,3 +8,4 @@ shopping basket analysis http://stackoverflow.com/questions/16515370/r-basket-an
 http://mlwave.com/
 Predicting User Activity Level in Social Networks.pdf
 Seven Basic Tools of Quality
+http://toyoizumilab.brain.riken.jp/hideaki/res/histogram.html
