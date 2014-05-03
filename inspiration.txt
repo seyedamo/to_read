@@ -7,3 +7,4 @@ R串味应用之 rmongodb 入门操作
 shopping basket analysis http://stackoverflow.com/questions/16515370/r-basket-analysis-using-arules-package-with-unique-order-number-but-duplicate-or
 http://mlwave.com/
 Predicting User Activity Level in Social Networks.pdf
+Seven Basic Tools of Quality
