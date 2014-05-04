@@ -9,3 +9,4 @@ http://mlwave.com/
 Predicting User Activity Level in Social Networks.pdf
 Seven Basic Tools of Quality
 http://toyoizumilab.brain.riken.jp/hideaki/res/histogram.html
+Ensemble learning
