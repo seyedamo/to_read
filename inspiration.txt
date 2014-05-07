@@ -11,3 +11,4 @@ Seven Basic Tools of Quality
 http://toyoizumilab.brain.riken.jp/hideaki/res/histogram.html
 Ensemble learning
 git blit ~ git for windows
+statistical significance
