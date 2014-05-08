@@ -14,3 +14,5 @@ git blit ~ git for windows
 statistical significance
 bitbucket
 markdown - dillinger
+plyr ggplot2
+http://lesswrong.com/lw/2el/applied_bayes_theorem_reading_people/
