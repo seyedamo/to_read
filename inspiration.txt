@@ -18,3 +18,4 @@ plyr ggplot2
 http://lesswrong.com/lw/2el/applied_bayes_theorem_reading_people/
 Hadley's notes http://had.co.nz/notes/
 Mahout https://mahout.apache.org/users/classification/logistic-regression.html
+R arule library
