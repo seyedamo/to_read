@@ -19,3 +19,4 @@ http://lesswrong.com/lw/2el/applied_bayes_theorem_reading_people/
 Hadley's notes http://had.co.nz/notes/
 Mahout https://mahout.apache.org/users/classification/logistic-regression.html
 R arules library
+http://www.r-bloggers.com/examples-and-resources-on-association-rule-mining-with-r/
