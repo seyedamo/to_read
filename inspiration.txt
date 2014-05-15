@@ -20,3 +20,4 @@ Hadley's notes http://had.co.nz/notes/
 Mahout https://mahout.apache.org/users/classification/logistic-regression.html
 R arules library
 http://www.r-bloggers.com/examples-and-resources-on-association-rule-mining-with-r/
+arules duplicates http://stackoverflow.com/questions/16515370/r-basket-analysis-using-arules-package-with-unique-order-number-but-duplicate-or
