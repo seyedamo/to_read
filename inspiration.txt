@@ -22,3 +22,6 @@ R arules library
 http://www.r-bloggers.com/examples-and-resources-on-association-rule-mining-with-r/
 arules duplicates http://stackoverflow.com/questions/16515370/r-basket-analysis-using-arules-package-with-unique-order-number-but-duplicate-or
 Analytics leverage data in a particular functional process (or application) to enable context-specific insight that is actionable.
+http://journal.r-project.org/archive/2013-1/kahle-wickham.pdf
+http://stackoverflow.com/questions/10302195/plotting-google-map-with-ggplot-in-r
+http://www.r-bloggers.com/google-maps-and-ggmap/
